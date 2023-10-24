@@ -40,9 +40,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello React Frontend App] <a name="about-project"></a>
+# 📖 [Hello React Frontend Kayjeee] <a name="about-project"></a>
 
-> **[ Hello React Frontend App]**  Is a React Application connecting to its Rails backend via API you can find [here](https://github.com/kayjeee/hello-rails-backend) 
+> **[ Hello React Frontend Kayjeee]**  Is a React Application connecting to its Rails backend via API you can find [here](https://github.com/kayjeee/hello-rails-backend) 
 
 ## 🛠 Built With <a name="built-with"></a>
 
